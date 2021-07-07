@@ -9,6 +9,6 @@ The code was carefully designed to account for variance in the link structure be
 
 The JSON file contains nested dictionaries of this structure:
 
-
+![](https://github.com/BirkoRuzicka/Star-Trek-Transcripts/blob/main/json_structure.png)
 
 
