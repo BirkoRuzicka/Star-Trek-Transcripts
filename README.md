@@ -19,6 +19,6 @@ The JSON file contains nested dictionaries of this structure:
 
 ![](https://github.com/BirkoRuzicka/Star-Trek-Transcripts/blob/main/json_structure.png)
 
-Using this data, I performed an in-depth analysis of dialogue distribution by gender across all series (see other repository).
+Using this data, I performed an in-depth analysis of dialogue distribution by gender across all series ([link to the repository](https://github.com/BirkoRuzicka/Star-Trek-Dialogue-Analysis)).
 
 
